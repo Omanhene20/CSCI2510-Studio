@@ -1,0 +1,9 @@
+Team Members: Kwabena Adjei Omanhene-Gyimah                   
+The `cat` command echoes everything typed until CTRL+D is pressed.
+Using `cat < mars.txt` displays the file content.
+`cat < mars.txt > new.txt` copies `mars.txt` content into `new.txt`.
+`cat > new.txt` allows user input and saves it to `new.txt`, overwriting  
+existing content.
+`cat >> new.txt` appends user input to `new.txt` instead of overwriting   
+it.
+`copy.c` reads input and writes it to output like `cat`.
